@@ -27,4 +27,3 @@ $ gulp
 **Jekyll**
 
 This project also uses Jekyll, whch is a static site generator that allows quite site buids without the use of databases. It's secure, it's simple, and it's written in Ruby. For further information regarding Jekyll, please review the Jekyll documentation [here.](http://jekyllrb.com/docs/usage/)
-# Articles
